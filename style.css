@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+
+}
+.nav1{
+     display: flex;
+    justify-content: space-between;
+    align-items: center;
+ 
+}
+.nav1 ul{
+     display: flex;
+     word-spacing: 1rem;
+     justify-content: center;
+   
+}
+.nav1 ul li {
+    display: flex;
+    justify-content: space-around;
+}
